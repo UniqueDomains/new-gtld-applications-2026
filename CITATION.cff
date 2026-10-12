@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "New gTLD applications, 2026 round"
+type: dataset
+authors:
+  - name: "Unique Domains"
+version: "2026-10-12"
+date-released: "2026-10-12"
+url: "https://unique.domains/tld/applications"
+repository-code: "https://github.com/UniqueDomains/new-gtld-applications-2026"
+license: "See LICENSE"
+abstract: "The 1,614 applications of ICANN's 2026 new gTLD round as ICANN publishes them, with coarse word and sales bands from Unique Domains."
+references:
+  - type: data
+    title: "New gTLD Program application listings"
+    authors:
+      - name: "ICANN"

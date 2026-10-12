@@ -1,0 +1,24 @@
+New gTLD Applications Dataset License
+=====================================
+
+ICANN columns
+-------------
+
+The columns string, u_label, applicant, applicant_country, application_id, type, status, contention_set, announced_on are republished, some normalized as DATA_DICTIONARY.md describes, from the New gTLD Program application listings published by ICANN (the Internet Corporation for Assigned Names and Numbers). ICANN's terms of use apply to them, and Unique Domains claims no rights in them.
+
+Unique Domains columns
+----------------------
+
+The columns in_word_corpus, word_popularity_band, comparable_sales_band are Unique Domains data. Copyright (c) Unique Domains.
+
+Permission is granted to view, download, quote, and cite them for research, editorial, evaluation, and internal decision-support use, provided attribution to Unique Domains is preserved.
+
+You may not:
+
+- remove provenance or citation metadata,
+- resell or redistribute them as a competing bulk dataset without written permission,
+- imply endorsement by Unique Domains or by ICANN.
+
+All data is provided "as is" without warranties of completeness, accuracy, availability, legal clearance, or commercial outcome.
+
+For commercial redistribution, API access, or partnership requests, contact kai@unique.domains.
